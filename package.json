@@ -1,0 +1,11 @@
+{
+  "name": "@puleeno-cms/file-manager",
+  "version": "1.0.0",
+  "description": "The file and image uploader for Puleeno CMS",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puleeno Nguyen<puleeno@gmail.com>",
+  "license": "ISC"
+}
