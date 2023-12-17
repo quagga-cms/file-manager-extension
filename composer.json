@@ -19,7 +19,7 @@
     "extension-class": "PuleenoCMS\\FileManager\\FileManagerExtension",
     "require-extensions": {
         "puleeno-cms/react": "*",
-        "puleeno-cms/blueprint": "*"
+        "puleeno-cms/layout-uikit": "*"
     },
     "config": {
         "vendor-dir": "libs"
