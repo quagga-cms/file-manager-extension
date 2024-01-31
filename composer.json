@@ -18,8 +18,7 @@
     "require": {},
     "extension-class": "Jackal\\Extension\\FileManager\\FileManagerExtension",
     "require-extensions": {
-        "jackal-cms/react": "*",
-        "jackal-cms/layout-uikit": "*"
+        "jackal-cms/react": "*"
     },
     "config": {
         "vendor-dir": "libs"
