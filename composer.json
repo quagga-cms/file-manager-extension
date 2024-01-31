@@ -1,11 +1,11 @@
 {
-    "name": "puleeno-cms/file-manager",
-    "description": "The file and image uploader for Puleeno CMS",
+    "name": "jackal-cms/file-manager",
+    "description": "The file and image uploader for Jackal CMS",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PuleenoCMS\\FileManager\\": "src/"
+            "Jackal\\Extension\\FileManager\\": "src/"
         }
     },
     "authors": [
@@ -16,10 +16,10 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "extension-class": "PuleenoCMS\\FileManager\\FileManagerExtension",
+    "extension-class": "Jackal\\Extension\\FileManager\\FileManagerExtension",
     "require-extensions": {
-        "puleeno-cms/react": "*",
-        "puleeno-cms/layout-uikit": "*"
+        "jackal-cms/react": "*",
+        "jackal-cms/layout-uikit": "*"
     },
     "config": {
         "vendor-dir": "libs"

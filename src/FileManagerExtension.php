@@ -1,6 +1,6 @@
 <?php
 
-namespace PuleenoCMS\FileManager;
+namespace Jackal\Extension\FileManager;
 
 use App\Core\Extension;
 
