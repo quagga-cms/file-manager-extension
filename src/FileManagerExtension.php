@@ -2,7 +2,7 @@
 
 namespace Jackal\Extension\FileManager;
 
-use App\Core\Extension;
+use Jackal\Jackal\Extension;
 
 class FileManagerExtension extends Extension
 {
