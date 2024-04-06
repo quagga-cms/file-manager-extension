@@ -1,8 +1,8 @@
 <?php
 
-namespace Jackal\Extension\FileManager;
+namespace Quagga\Extension\FileManager;
 
-use Jackal\Jackal\Extension;
+use Quagga\Quagga\Extension;
 
 class FileManagerExtension extends Extension
 {

@@ -6,11 +6,11 @@
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'reference' => NULL,
-        'name' => 'jackal-cms/file-manager',
+        'name' => 'quagga/file-manager',
         'dev' => true,
     ),
     'versions' => array(
-        'jackal-cms/file-manager' => array(
+        'quagga/file-manager' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'type' => 'library',

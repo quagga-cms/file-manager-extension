@@ -1,11 +1,11 @@
 {
-    "name": "jackal-cms/file-manager",
-    "description": "The file and image uploader for Jackal CMS",
+    "name": "quagga/file-manager",
+    "description": "The file and image uploader for Quagga CMS",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Jackal\\Extension\\FileManager\\": "src/"
+            "Quagga\\Extension\\FileManager\\": "src/"
         }
     },
     "authors": [
@@ -16,9 +16,9 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "extension-class": "Jackal\\Extension\\FileManager\\FileManagerExtension",
+    "extension-class": "Quagga\\Extension\\FileManager\\FileManagerExtension",
     "require-extensions": {
-        "jackal-cms/react": "*"
+        "quagga/react": "*"
     },
     "config": {
         "vendor-dir": "libs"

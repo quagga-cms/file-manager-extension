@@ -1,7 +1,7 @@
 {
-  "name": "@jackal/file-manager",
+  "name": "@quagga/file-manager",
   "version": "1.0.0",
-  "description": "The file and image uploader for Jackal CMS",
+  "description": "The file and image uploader for Quagga CMS",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
